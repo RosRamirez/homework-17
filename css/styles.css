@@ -32,21 +32,25 @@ ul {
 .caseStudies {
     display: flex;
     justify-content: space-around;
+    padding: 15px;
 }
 
 .swatch {
     height: 250px;
     width: 360px;
-    border: 1px solid black;
+    border: none;
+    background-color: #EFDEDC;
     border-top-left-radius: 7px;
     border-top-right-radius: 7px;
 }
 
 .title {
     padding: 15px;
+    color: #FDFCFC;
     text-align: center;
-    border: 1px solid black;
+    border: none;
     border-top: none;
+    background-color: #260401;
     border-bottom-left-radius: 7px;
     border-bottom-right-radius: 7px;
 }
