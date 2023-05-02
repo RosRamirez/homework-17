@@ -3,6 +3,22 @@
     vertical-align: top;
 }
 
+h1 {
+    font-family:"Playfair Display", serif;
+    font-size: 50px;
+    font-weight: 500;
+}
+
+h2 {
+    font-family:"Playfair Display", serif;
+    font-size: 38px;
+    font-weight: 400;
+}
+
+h3 {
+    font-family: "Poppins", sans-serif;
+}
+
 .logo {
     width: 23%;
     padding: 1%;
@@ -20,13 +36,17 @@ ul {
 }
 
 .heroImg {
-    height: 400px;
+    height: 600px;
     padding: 25px;
 }
 
 .content {
     width: 500px;
     margin: 0 auto;
+}
+
+.rosie {
+    border-radius: 7px;
 }
 
 .caseStudies {
